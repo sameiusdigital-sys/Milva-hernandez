@@ -1,0 +1,128 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  color: #333;
+  background-color: #fafafa;
+  text-align: center;
+}
+
+/* Secciones generales */
+.hero {
+  height: 100vh;
+  background: url('assets/hero-foto.jpg') center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero-content h1 {
+  color: #ffffff;
+  font-size: 3.5rem;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.4);
+}
+
+.story-quote {
+  padding: 80px 20px;
+  font-size: 1.5rem;
+  font-style: italic;
+  color: #555;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.gallery {
+  padding: 60px 20px;
+}
+
+.gallery h2, .video-section h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.timeline-grid {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.photo-card {
+  flex: 1;
+  min-width: 250px;
+}
+
+.photo-card img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.photo-card span {
+  display: block;
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #777;
+}
+
+.video-section {
+  padding: 60px 20px;
+  background-color: #f0f0f0;
+}
+
+.video-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.video-container video {
+  width: 100%;
+  border-radius: 6px;
+}
+
+.save-the-date {
+  padding: 100px 20px;
+  background-color: #ffffff;
+}
+
+.save-the-date .subtitle {
+  font-size: 1.2rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: #888;
+}
+
+.save-the-date .date {
+  font-size: 3rem;
+  margin-top: 15px;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+
+.closing-section {
+  height: 80vh;
+  background: url('assets/cierre-foto.jpg') center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.closing-content p {
+  color: #ffffff;
+  font-size: 1.8rem;
+  max-width: 600px;
+  padding: 20px;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.5);
+}
