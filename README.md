@@ -35,7 +35,7 @@
   <!-- Área de Servicios Legal -->
   <section id="servicios" class="services">
     <div class="container">
-      <h2>Nuestros Servicios</h2>
+      <h2>Servicios Jurídicos </h2>
       <div class="grid-services">
         <div class="card">
           <h3>Poderes y Gestiones Legales</h3>
@@ -43,10 +43,10 @@
         </div>
         <div class="card">
           <h3>Derecho Civil y Registral</h3>
-          <p>Trámites de actas civiles, legalizaciones, apostillas y regularización de documentos personales y de propiedad.</p>
+          <p>Trámites Documentl Registral , legalizaciones, apostillas y regularización, Asesoría Representación Presencial , Visado , Legalización Documental  de documentos personales y de propiedad.</p>
         </div>
         <div class="card">
-          <h3>Asesoría Corporativa</h3>
+          <h3>Asesoría General </h3>
           <p>Constitución de empresas, revisión de contratos mercantiles y auditoría jurídica preventiva para negocios.</p>
         </div>
       </div>
@@ -57,15 +57,16 @@
   <section id="contacto" class="contact">
     <div class="container">
       <h2>Contacto</h2>
-      <p>Programe una cita o envíe su consulta directa a través de nuestros canales oficiales.</p>
+      <p>Programe una cita o envíe su consulta directa a través de mis canales oficiales.</p>
       <form class="contact-form">
         <input type="text" placeholder="Nombre completo" required>
-        <input type="email" placeholder="Correo electrónico" required>
+        <input type="email" hernandezmilva2@gmail.com 
+          WhatsApp +5841414029359 placeholder="Correo electrónico" required>
         <textarea rows="4" placeholder="Describa brevemente su caso..." required></textarea>
         <button type="submit" class="btn-primary">Enviar Mensaje</button>
       </form>
     </div>
-  </section>
+  </section> av Díaz Moreno 101 entre calle Vargas y avenida Cedeño . centro comercial merca Cedeño local 11 pasillo 3 , centro de Valencia parroquia catedral Valencia estado Carabobo Venezuela código postal 2021, Venezuela 
 
   <!-- Pie de página -->
   <footer>
