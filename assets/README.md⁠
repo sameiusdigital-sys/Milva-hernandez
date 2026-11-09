@@ -1,1 +1,17 @@
-carpeta de imagen
+ (con comillas triples ```)carpeta de imagen
+El texto que estás viendo en la página es la estructura de un archivo **README en formato Markdown**, diseñado para servir como la página principal o presentación del sitio web de una **oficina jurídica y de gestión documental**.
+Pertenece a la **Abg. Milva Esther Hernández Noguera**, radicada en Valencia, Estado Carabobo, Venezuela.
+### Contenido principal del documento:
+ * **Encabezado e Identificación:** Muestra el nombre de la abogada, su RIF (V-00913744-0), su especialización (Servicios Jurídicos y Gestión Documental) y la ubicación.
+ * **Áreas de Atención (Tabla):** Desglosa 12 servicios específicos, entre los cuales destacan:
+   * Documentación jurídica y preparación de expedientes.
+   * Contratos civiles y de arrendamiento.
+   * Gestiones ante registros, notarías y el SAREN.
+   * Rectificación de actas del estado civil.
+   * Poderes especiales y trámites de familia / divorcio.
+   * Asuntos de derecho laboral y mercantil.
+   *Gestion documental Adminutsrativa paga proceso de Regularización migratoria y trámites ante el SAIME.
+ * **Modalidad de Atención:** Especifica que ofrece atención tanto presencial en Valencia como a distancia.
+ * **Información de Contacto y Dirección:** Incluye número de WhatsApp (+58 414-4029359), correo electrónico (HernandezMilva2@gmail.com) y la dirección física exacta en el Centro Comercial Merca Cedeño.
+ * **Principios del Servicio:** Resalta la atención personalizada, confidencialidad y compromiso profesional.
+El bloque de código está empaquetado en sintaxis Markdown (con comillas triples ```) para que puedas copiarlo directamente y pegarlo dentro del archivo README.md de tu repositorio en GitHub.
